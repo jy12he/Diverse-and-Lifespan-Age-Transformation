@@ -3,3 +3,4 @@ Given a facial photo of one person, our basic Diverse and Lifespan Age Transform
 
 ## METRIC FOR IDENTITY PRESERVATION UNDER AGE GAP
 
+![our_metric](https://github.com/jy12he/Diverse-and-Lifespan-Age-Transformation/assets/135214685/129fc552-1e1f-452a-8ddc-802910029ebe)
